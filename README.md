@@ -1,11 +1,4 @@
 ### Меня зовут Данияр👋
 
----
-**DaniyarNaamatov/DaniyarNaamatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DaniyarNaamatov=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DaniyarNaamatov=anuraghazra&show_icons=true)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?DaniyarNaamatov=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
