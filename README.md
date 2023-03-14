@@ -14,5 +14,6 @@
 
 - ⚡: Хочу освоить новую профессию и найти работу.
 
-- 📧: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/DaniyarNaamatov-telegram-blue)](https://t.me/ququuqaq)
+- 📧: Как связаться со мной: 
+[![Telegram Badge](https://img.shields.io/badge/DaniyarNaamatov-telegram-blue)](https://t.me/ququuqaq)
 
