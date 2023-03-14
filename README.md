@@ -15,7 +15,7 @@
 - ⚡: Хочу освоить новую профессию и найти работу.
 
 - 📧: Как связаться со мной: 
-[![Telegram Badge](https://img.shields.io/badge/DaniyarNaamatov-telegram-blue)](https://t.me/ququuqaq) https://img.shields.io/badge/call-gmail-blue
+[![Telegram Badge](https://img.shields.io/badge/DaniyarNaamatov-telegram-blue)](https://t.me/ququuqaq)
 
 
 
@@ -23,7 +23,7 @@ Web Developer/Django
 --------------------
 
 * 🌍  I'm based in Bishkek
-* ✉️  You can contact me at [mrnaamatov79@gmail.com](mailto:mrnaamatov79@gmail.com)
+* ✉️  You can contact me at! [mrnaamatov79@gmail.com](mailto:mrnaamatov79@gmail.com)
 
 ### Skills
 
