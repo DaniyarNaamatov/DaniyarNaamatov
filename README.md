@@ -6,7 +6,7 @@
 
 ### 👨‍💻: Обо мне: 
 Я начинающий веб разработчик.
-<img src="https://media.giphy.com/media/Zd0DYHlBmZTGaiIFRY/giphy.gif" width="30px">
+<img src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50px">
 
 
 
